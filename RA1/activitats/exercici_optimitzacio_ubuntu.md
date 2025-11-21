@@ -54,8 +54,8 @@ Respon:
 ### 5. Desinstal·lació de paquets innecessaris
 Llista els paquets més grans:
 ```
-dpkg-query -Wf '${Installed-Size}	${Package}
-' | sort -n | tail
+dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n | tail
+
 ```
 Respon:
 - Quins paquets ocupen més espai?
