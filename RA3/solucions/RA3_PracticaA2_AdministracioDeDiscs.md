@@ -184,8 +184,4 @@ També es pot crear una unitat `.mount` amb **systemd** o configurar **autofs** 
 | Windows 10 | 2 particions de 2.5 GB | NTFS | E: i F: |
 | USB automàtic | `/dev/sdb1` | vfat | `/media/usb` automàtic |
 
----
 
-**Autor:** _[Nom de l’alumne]_  
-**Data:** 15/12/2025  
-**Centre:** _Institut / Cicle Formatiu – 2025_
